@@ -1,8 +1,8 @@
-## shutup.css
+## slowweb.css
 
-shutup.css is a CSS stylesheet ([?](https://en.wikipedia.org/wiki/Style_sheet_(web_development))) that can be applied to your web browser to hide comment sections on many popular websites. It is maintained by [Steven Frank](https://twitter.com/stevenf/) and [Ricky Romero](https://rickyromero.com).
+slowweb.css is a CSS stylesheet ([?](https://en.wikipedia.org/wiki/Style_sheet_(web_development))) that can be applied to your web browser to hide timelines and other distractions on many popular websites.
 
-## Why would I use it?
+<!--## Why would I use it?
 
 Some people feel that website comments are an annoyance or distraction from the main content. Some choose to use shutup.css to avoid being drawn into protracted arguments or avoid being exposed to statements that instill anger or sadness in them.
 
@@ -72,4 +72,4 @@ Sure! You can [send me a pull request on GitHub](https://github.com/panicsteve/s
 
 ## How do I contact you?
 
-You can contact me at [stevenf@panic.com](mailto:stevenf@panic.com), or on Twitter as [@stevenf](https://twitter.com/stevenf/).
+You can contact me at [stevenf@panic.com](mailto:stevenf@panic.com), or on Twitter as [@stevenf](https://twitter.com/stevenf/). -->
